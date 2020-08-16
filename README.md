@@ -1,4 +1,4 @@
-<h2> 11 DL Papers You Need To Know About Understanding CNNs </h2>
+<h2> 11 Deep Learning Papers You Need To Know About Understanding CNNs </h2>
 
 <ul>
 
